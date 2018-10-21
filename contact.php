@@ -71,7 +71,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <div class="well well-sm">
-                            <form>
+                            <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
