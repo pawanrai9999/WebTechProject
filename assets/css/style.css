@@ -25,29 +25,22 @@ Lisence: MIT
 /*
 * Fonts End
 */
-.header_background{
-    background: url("../..//assets/media/img/webheader.png");
-}
-.main_header{
-    background: transparent;
-    z-index: 50;
-    color: #767777;
-    overflow: visible;
-    background: white;
-}
-.main_header .material-icons {
-    color: #767777 !important;
-}
-.logo-image{
+
+.icon-image{
+    width: 160px;
     height: 60px;
-    width: 150px;
 }
-.main_navigation .mdl-navigation__link:hover {
-    background-color: #7C8ED5;
-    color: black;
-    border-radius: 15px;
+.top-margin{
+    margin-top: 90px;
 }
-.main_navigation a{
-    font-family: Roboto;
-    font-weight: bold;
+
+.header-image{
+    
+    width: 400px;
+}
+
+.tetimonial-img{
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
 }
