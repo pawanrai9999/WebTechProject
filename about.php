@@ -76,10 +76,10 @@
                     <button type="submit" class="btn btn-info mb-2">Subscribe</button>
                 </form>
             </div>
-            <h1 class="my-4">About Us
-                <small>It's Nice to Meet You!</small>
-            </h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, explicabo dolores ipsam aliquam inventore corrupti eveniet quisquam quod totam laudantium repudiandae obcaecati ea consectetur debitis velit facere nisi expedita vel?</p>
+            <h1 class="my-4">About Us</h1>
+            <h3> <small>It's Nice to Meet You!</small>
+            </h3>
+            <p>These are the good beings behind the latest and best technology.</p>
 
             <!-- Team Members Row -->
             <div class="row">
@@ -88,31 +88,31 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center mb-4">
                     <img class="rounded-circle img-fluid d-block mx-auto" src="assets/media/img/p1.png" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
+                    <h3>Roney Casey
+                        <small>Front End Developer</small>
                     </h3>
-                    <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                    <p>Skilled with the latest front end technologies such as HTML5, CSS3, SASS, LESS and many other.</p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center mb-4">
                     <img class="rounded-circle img-fluid d-block mx-auto" src="assets/media/img/p2.png" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
+                    <h3>Alix Kam
+                        <small>Back End Developer</small>
                     </h3>
-                    <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                    <p>When it comes to handling servers no one is better than him.</p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center mb-4">
                     <img class="rounded-circle img-fluid d-block mx-auto" src="assets/media/img/p3.png" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
+                    <h3>Robert Cisco
+                        <small>Network Specialist</small>
                     </h3>
-                    <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                    <p>He is a NETWORKING. Can make connection within seconds.</p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center mb-4">
                     <img class="rounded-circle img-fluid d-block mx-auto" src="assets/media/img/p4.png" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
+                    <h3>Magna Rosy
+                        <small>UI Designer</small>
                     </h3>
-                    <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
+                    <p>Best UX and User Interface designer.</p>
                 </div>
 
             </div>
