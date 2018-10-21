@@ -16,6 +16,7 @@
         <link rel="icon" href="assets/media/img/geek.png">
         <link href="assets/css/bootstrap.css" rel="stylesheet">
         <link href="assets/css/style.css" rel="stylesheet">
+        <link href="assets/css/contact.css" rel="stylesheet">
 
         <script src="assets/js/jquery.js"></script>
         <script src="assets/js/popper.js"></script>
