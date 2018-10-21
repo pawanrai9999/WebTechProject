@@ -75,25 +75,31 @@
 
                     <button type="submit" class="btn btn-info mb-2">Subscribe</button>
                 </form>
+                
+            
             </div>
-            <div class="row card-deck">
-                <div class="col">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="card-title">Welcome to the site.</div>
-                            <div class="card-text">Things You can do her ald l lsdflsjfdl;jfs flfljf;ljafljeouweu oweur</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="card-title">Welcome to the site.</div>
-                            <div class="card-text">Things You can do her ald l lsdflsjfdl;jfs flfljf;ljafljeouweu oweur</div>
-                        </div>
-                    </div>
+            <div class="row justify-content-center align-items-center ">
+                <div class="col text-center">
+                    <h2>Story of HTML</h2>
+                    <hr>
+                    <img class="img-fluid" src="assets/media/img/html5.png">
+                    <p>This is the very interesting story of how HTML became most used markup....</p>
+                    <button class="btn btn-dark">Read More</button>
                 </div>
             </div>
+            <div class="row justify-content-center align-items-center">
+                <div class="col text-center">
+                    <h2>Dynamic Pages of PHP</h2>
+                    <hr>
+                    <img class="img-fluid" src="assets/media/img/php.png">
+                    <p>From Facebook to Yahoo! almost everyone has used php in their life time ....</p>
+                    <button class="btn btn-dark">Read More</button>
+                </div>
+            </div>
+
         </div>
+        <div class="container w-75 text-center justify-content-center align-items-center">
+                    
+                     </div>
     </body>
 </html>

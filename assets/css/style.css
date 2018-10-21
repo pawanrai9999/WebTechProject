@@ -49,3 +49,13 @@ Lisence: MIT
 .col .card{
     display: inline-block;
 }
+.row{
+    margin-bottom: 4px;
+}
+.row .col{
+    border: solid grey 2px;
+    border-radius: 8px;
+}
+.row .col:hover{
+    background-color:#BEBEBE;
+}
