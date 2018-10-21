@@ -40,11 +40,11 @@
                         <li class="nav-item ">
                             <a class="nav-link" href="index.php">Home</a>
                         </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="about.php">About US<span class="sr-only">(current)</span></a>
-                        </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.php">Contact US</a>
+                            <a class="nav-link" href="about.php">About US</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="contact.php">Contact US<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="blog.php">Blog</a>
