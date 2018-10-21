@@ -23,7 +23,7 @@
         <script src="assets/js/mainscript.js"></script>
     </head>
     <body>
-        <div class="container-fluid">
+        <div class="container-fluid bg-gray">
 
             <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-primary">
                 <span class="navbar-brand">
@@ -76,53 +76,51 @@
                     <button type="submit" class="btn btn-info mb-2">Subscribe</button>
                 </form>
             </div>
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="card justify-content-center align-items-center">
-                        <img class="card-img img-fluid w-50 " src="assets/media/img/web-app.png">
-                        <div class="card-body">
-                            <div class="card-title">
-                                <h3>Hybrid Application Development</h3>
-                            </div>
-                            <div class="card-text">
-                                Develop hybrid application for Bussiness.
-                            </div>
+
+
+
+            <div class="card-deck mb-2 text-center">
+                <div class="card mb-6 shadow-sm">
+                    <img class="card-img img-fluid " src="assets/media/img/web-app.png">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h3>Hybrid Application Development</h3>
+                        </div>
+                        <div class="card-text">
+                            Develop hybrid application for Bussiness.
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-6 shadow-sm">
+                    <img class="card-img img-fluid " src="assets/media/img/porfolio.png">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h3>Portfolio Development</h3>
+                        </div>
+                        <div class="card-text">
+                            Want a portfolio website. Then you are at right place.
                         </div>
                     </div>
                 </div>
 
-                <div class="col-sm-6">
-                    <div class="card justify-content-center align-items-center">
-                        <img class="card-img img-fluid w-50 " src="assets/media/img/porfolio.png">
-                        <div class="card-body">
-                            <div class="card-title">
-                                <h3>Portfolio Development</h3>
-                            </div>
-                            <div class="card-text">
-                                Want a portfolio website. Then you are at right place.
-                            </div>
-                        </div>
+            </div>
+
+
+
+
+            <div class="pt-2 card justify-content-center align-items-center">
+                <img class="card-img img-fluid w-50 " src="assets/media/img/frontend-backend.png">
+                <div class="card-body">
+                    <div class="card-title">
+                        <h3>Want help in frontend or backend development?</h3>
+                    </div>
+                    <div class="card-text">
+                        Expert in frontend and backend development.
                     </div>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col">
-                    <div class="card justify-content-center align-items-center">
-                        <img class="card-img img-fluid w-50 " src="assets/media/img/frontend-backend.png">
-                        <div class="card-body">
-                            <div class="card-title">
-                                <h3>Want help in frontend or backend development?</h3>
-                            </div>
-                            <div class="card-text">
-                                Expert in frontend and backend development.
-                            </div>
-                        </div>
-                    </div>
-                </div>    
-            </div>
-
-            <div class="card justify-content-center text-center align-items-center">
+            <div class="mt-2 card justify-content-center text-center align-items-center">
                 <div class="card-header">
                     Quote
                 </div>

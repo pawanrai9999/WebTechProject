@@ -76,7 +76,24 @@
                     <button type="submit" class="btn btn-info mb-2">Subscribe</button>
                 </form>
             </div>
-            
+            <div class="row card-deck">
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="card-title">Welcome to the site.</div>
+                            <div class="card-text">Things You can do her ald l lsdflsjfdl;jfs flfljf;ljafljeouweu oweur</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="card-title">Welcome to the site.</div>
+                            <div class="card-text">Things You can do her ald l lsdflsjfdl;jfs flfljf;ljafljeouweu oweur</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </body>
 </html>

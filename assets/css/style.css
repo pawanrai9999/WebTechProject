@@ -46,3 +46,6 @@ Lisence: MIT
     width: 60px;
     height: 60px;
 }
+.col .card{
+    display: inline-block;
+}
