@@ -1,0 +1,53 @@
+/*
+Author: Pawan
+Date: Oct 21, 2018
+File Name: style.css
+Lisence: MIT
+*/
+/* 
+* Fonts
+*/
+@font-face {
+  font-family: Charmonman;
+  font-style: normal;
+  font-weight: 400;
+  src:url("../..//assets/fonts/Charmonman-Regular.ttf");
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../..//assets/fonts/Roboto-Regular.ttf");
+}
+
+
+/*
+* Fonts End
+*/
+.header_background{
+    background: url("../..//assets/media/img/webheader.png");
+}
+.main_header{
+    background: transparent;
+    z-index: 50;
+    color: #767777;
+    overflow: visible;
+    background: white;
+}
+.main_header .material-icons {
+    color: #767777 !important;
+}
+.logo-image{
+    height: 60px;
+    width: 150px;
+}
+.main_navigation .mdl-navigation__link:hover {
+    background-color: #7C8ED5;
+    color: black;
+    border-radius: 15px;
+}
+.main_navigation a{
+    font-family: Roboto;
+    font-weight: bold;
+}
